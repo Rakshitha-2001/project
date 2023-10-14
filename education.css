@@ -1,0 +1,59 @@
+body{
+  
+    background-image: url("images/2.jpg");
+}
+
+
+#one{
+  margin-top: 100px;
+  color: rgb(98, 202, 94);
+  font-size: 55px;
+  font-family:Strai
+  
+  
+}
+table {
+ 
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(30, 28, 28);
+    margin-top: 100px;
+    height: 250px;
+    margin-right: 50px;
+    margin-left: 150px;
+    width:80%;
+    
+   
+    
+  }
+  
+  th {
+    
+    text-align: left;
+    padding: 8px;
+    color:red;
+    background-color: aqua;
+    
+  }
+
+  td {
+    
+    text-align: left;
+    padding: 8px;
+    color: rgb(22, 17, 82);
+    background-color: rgb(146, 187, 233);
+    
+  }
+
+ 
+  
+  tr:nth-child(even) {
+    background-color: rgb(130, 29, 116);
+  }
+
+  
+  #click{
+    position: fixed;
+    color:crimson;
+    background-color: burlywood;
+    border-radius: 30%;
+  }
